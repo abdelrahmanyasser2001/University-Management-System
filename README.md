@@ -18,7 +18,7 @@ This project is a university management system designed to handle students, prof
 
 Here is the ERD (Entity-Relationship Diagram) for the University Management System:
 
-![ERD](uni schema.png)
+![ERD]([uni schema.png](https://github.com/abdelrahmanyasser2001/University-Management-System/blob/main/uni%20schema.png))
 
 The schema involves the following core tables:
 
